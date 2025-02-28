@@ -1,6 +1,6 @@
 ﻿{
-	"name": "New project",
-	"short_name": "New project",
+	"name": "บทเรียนคอมพิวเตอร์ช่วยสอน",
+	"short_name": "บทเรียนคอมพิวเตอร์ช่วยสอน",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
